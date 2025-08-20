@@ -1,9 +1,9 @@
 <h1 align="center">G'day, I'm Mehmet</h1>
 <h3 align="center">I am an interface software developer living in Turkey and also a hobby developer in the field of game development.</h3>
 
-- 🌱 I’m currently learning **Backend Programming Languages**
+- I’m currently learning **Backend Programming Languages**
 
-- ⚡ Fun fact **I know a lot, but I'm not an expert in any of them.**
+- Btw **I know a lot, but I'm not an expert in any of them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
